@@ -11,7 +11,7 @@ Para ver el poster del proyecto, haga click [aquí](https://github.com/edmenciab
 Se puede observar la demostración en el siguiente  [vídeo](https://drive.google.com/file/d/1jTnrPCBaEKChJhC9uhkoo-gew13zMBWA/view?usp=sharing).
 
 ### Dataset
-El dataset tiene el nombre de [reviews_original.csv](https://github.com/edmenciab733/ucom-project3/blob/main/reviews_original.csv), si quiere realizar prueba pude exportar a su drive, exporte la misma y ejecute el proyecto en [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/edmenciab733/ucom-project3/blob/main/nlp.ipynb).
+El dataset tiene el nombre de [reviews_original.csv](https://github.com/edmenciab733/ucom-project3/blob/main/reviews_original.csv), si quiere realizar pruebas, puede exportar a su drive, con el dataset y ejecute el proyecto en [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/edmenciab733/ucom-project3/blob/main/nlp.ipynb).
 
 
 
